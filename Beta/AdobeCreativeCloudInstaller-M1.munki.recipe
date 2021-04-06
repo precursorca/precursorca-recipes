@@ -49,7 +49,7 @@
     <key>MinimumVersion</key>
     <string>0.2.0</string>
     <key>ParentRecipe</key>
-    <string>com.github.rtrouton.pkg.AdobeCreativeCloudInstaller-M1</string>
+    <string>com.github.ramyhhh.rtrouton.pkg.AdobeCreativeCloudInstaller-M1</string>
     <key>Process</key>
     <array>
       <dict>
