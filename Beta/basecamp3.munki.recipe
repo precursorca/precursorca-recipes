@@ -15,7 +15,7 @@
 		<key>MUNKI_CATEGORY</key>
 		<string>Collaboration</string>
 		<key>MUNKI_REPO_SUBDIR</key>
-		<string>apps</string>
+		<string>apps/%PLATFORM%</string>
 		<key>NAME</key>
 		<string>Basecamp</string>
 		<key>pkginfo</key>
