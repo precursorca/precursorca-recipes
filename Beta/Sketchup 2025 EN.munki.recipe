@@ -50,7 +50,7 @@ exit</string>
     <key>MinimumVersion</key>
     <string>2.7</string>
     <key>ParentRecipe</key>
-    <string>com.github.dataJAR-recipes.pkg.SketchUp 2025 EN</string>
+    <string>com.github.precursorca-recipes.pkg.SketchUp 2025 EN</string>
     <key>Process</key>
     <array>
         <dict>
