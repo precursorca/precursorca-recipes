@@ -12,8 +12,11 @@
 		<string></string>
 		<key>ARCHITECURE</key>
 		<string></string>
-		<key>DOWNLOAD__JSON_URL</key>
-		<string>https://basecamp.com/desktop/mac%PLATFORM%/updates.json?</string>
+		<key>Arguments</key>
+        <dict>
+			<key>DOWNLOAD__JSON_URL</key>
+			<string>https://basecamp.com/desktop/mac%PLATFORM%/updates.json?</string>
+		</dict>
 		<key>NAME</key>
 		<string>Basecamp3</string>
 	</dict>
