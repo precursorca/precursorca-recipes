@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>Description</key>
-	<string>Downloads latest Basecamp 3 Mac app. Leave PLATFORM blank for Intel, set PLATFORM to "_arm64" for Arm.</string>
+	<string>Downloads latest Basecamp 3 Mac app. For Apple Silicon set PLATFORM to _arm64 and ARCHITECTURE to arm64; For Intel leave PLATFORM blank and set ARCHITECTURE to x86_64</string>
 	<key>Identifier</key>
 	<string>com.github.autopkg.precursorca-recipes.download.Basecamp3</string>
 	<key>Input</key>
