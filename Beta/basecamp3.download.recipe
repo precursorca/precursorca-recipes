@@ -36,7 +36,7 @@
             <key>Arguments</key>
             <dict>
                 <key>url</key>
-                <string>%output_string%</string>
+                <string>%found_url%</string>
                 <key>filename</key>
                 <string>BaseCamp3%PLATFORM%.zip</string>
             </dict>
