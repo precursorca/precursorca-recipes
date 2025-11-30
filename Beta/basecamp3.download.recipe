@@ -8,15 +8,8 @@
 	<string>com.github.autopkg.precursorca-recipes.download.Basecamp3</string>
 	<key>Input</key>
 	<dict>
-		<key>PLATFORM</key>
-		<string></string>
-		<key>ARCHITECURE</key>
-		<string></string>
-		<key>Arguments</key>
-        <dict>
-			<key>DOWNLOAD__JSON_URL</key>
+		<key>DOWNLOAD__JSON_URL</key>
 			<string>https://basecamp.com/desktop/mac%PLATFORM%/updates.json?</string>
-		</dict>
 		<key>NAME</key>
 		<string>Basecamp3</string>
 	</dict>
