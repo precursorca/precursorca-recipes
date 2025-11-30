@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>Description</key>
-	<string>Imports Basecamp 3 app into Munki. Leave PLATFORM blank for Intel, set PLATFORM to "_arm64" for Arm. Set ARCHITECTURE to "x86_64" for Intel or "arm64" for Arm.</string>
+	<string>Imports Basecamp 3 app into Munki. Leave PLATFORM blank for Intel, set PLATFORM to "_arm64" for Apple Silicon.</string>
 	<key>Identifier</key>
 	<string>com.github.autopkg.precursorca-recipes.munki.Basecamp3</string>
 	<key>Input</key>
