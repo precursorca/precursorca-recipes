@@ -12,6 +12,8 @@
 			<string>https://basecamp.com/desktop/mac%PLATFORM%/updates.json?</string>
 		<key>NAME</key>
 		<string>Basecamp3</string>
+		<key>PLATFORM</key>
+		<string>%PLATFORM%</string>
 	</dict>
 	<key>MinimumVersion</key>
 	<string>0.2</string>
