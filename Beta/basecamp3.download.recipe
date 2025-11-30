@@ -38,7 +38,7 @@
                 <key>url</key>
                 <string>%found_url%</string>
                 <key>filename</key>
-                <string>BaseCamp3%PLATFORM%.zip</string>
+                <string>BaseCamp3.zip</string>
             </dict>
         </dict>
 		<dict>
