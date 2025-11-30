@@ -27,7 +27,7 @@
 			<key>category</key>
 			<string>%MUNKI_CATEGORY%</string>
 			<key>description</key>
-			<string>We built Basecamp 3 %PLATFORM% to work beautifully on your Mac, Macbook and iMac. Keep Basecamp 3 handy in the dock and get notifications right on your desktop. </string>
+			<string>We built Basecamp 3 %ARCHITECTURE% to work beautifully on your Mac, Macbook and iMac. Keep Basecamp 3 handy in the dock and get notifications right on your desktop. </string>
 			<key>developer</key>
 			<string>Basecamp</string>
 			<key>display_name</key>
