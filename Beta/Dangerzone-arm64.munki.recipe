@@ -34,9 +34,6 @@
             <array>
                 <string>arm64</string>
             </array>
-            <key>requires</key>
-            <array>
-            </array>
             <key>blocking_applications</key>
             <array>
                 <string>Dangerzone</string>
@@ -59,8 +56,6 @@
                 <string>%pkg_path%</string>
                 <key>repo_subdirectory</key>
                 <string>%MUNKI_REPO_SUBDIR%</string>
-                <key>pkginfo</key>
-                <string>%pkginfo%</string>
             </dict>
         </dict>
     </array>
