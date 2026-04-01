@@ -55,26 +55,27 @@
             </dict>
         </dict>
         <dict>
-            <key>Processor</key>
             <string>PkgCreator</string>
-            <key>Arguments</key>
-            <dict>
-                <key>pkgroot</key>
-                <string>%RECIPE_CACHE_DIR%/%NAME%/pkgroot</string>
-                <key>pkgdir</key>
-                <string>%RECIPE_CACHE_DIR%/%NAME%</string>
-                <key>pkgname</key>
-                <string>%NAME%-%version%</string>
-                <key>pkgtype</key>
-                <string>flat</string>
-                <key>id</key>
-                <string>press.freedom.dangerzone</string>
-                <key>version</key>
-                <string>%version%</string>
-                <key>install_location</key>
-                <string>/</string>
-            </dict>
+    <key>Arguments</key>
+    <dict>
+        <key>pkg_request</key>
+        <dict>
+            <key>pkgroot</key>
+            <string>%RECIPE_CACHE_DIR%/%NAME%/pkgroot</string>
+            <key>pkgdir</key>
+            <string>%RECIPE_CACHE_DIR%/%NAME%</string>
+            <key>pkgname</key>
+            <string>%NAME%-%version%</string>
+            <key>pkgtype</key>
+            <string>flat</string>
+            <key>id</key>
+            <string>press.freedom.dangerzone</string>
+            <key>version</key>
+            <string>%version%</string>
+            <key>install_location</key>
+            <string>/</string>
         </dict>
+    </dict>
     </array>
 </dict>
 </plist>
