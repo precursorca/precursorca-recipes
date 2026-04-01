@@ -15,7 +15,7 @@
     <key>Input</key>
     <dict>
         <key>NAME</key>
-        <string>Dangerzone-arm64</string>
+        <string>Dangerzone</string>
         <key>MUNKI_REPO_SUBDIR</key>
         <string>apps/dangerzone</string>
         <key>pkginfo</key>
